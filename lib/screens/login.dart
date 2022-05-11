@@ -8,6 +8,7 @@ import 'package:regreen/widgets/custom_textfield.dart';
 
 
 class LoginScreen extends StatefulWidget {
+   static const String path = "LoginScreen";
   const LoginScreen({ Key? key }) : super(key: key);
 
   @override

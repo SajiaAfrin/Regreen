@@ -7,7 +7,7 @@ import 'package:regreen/widgets/custom_grid_tile.dart';
 import 'details.dart';
 
 class TrashScreen extends StatelessWidget {
- final List trash = bdfood["trash"];
+ final List trash = regreen["trash"];
 
   @override
   Widget build(BuildContext context) {

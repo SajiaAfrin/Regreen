@@ -5,6 +5,7 @@ import 'package:regreen/utils/app_color.dart';
 
 import 'trash.dart';
 class Homepage extends StatefulWidget {
+    static const String path = "Homepage";
   const Homepage({ Key? key }) : super(key: key);
   @override
   State<Homepage> createState() => _HomepageState();

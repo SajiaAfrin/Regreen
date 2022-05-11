@@ -6,6 +6,7 @@ import 'package:regreen/widgets/custom_button1.dart';
 import 'login.dart';
 
 class WelcomeScreen extends StatelessWidget {
+   static const String path = "WelcomeScreen";
   const WelcomeScreen({ Key? key }) : super(key: key);
 
   @override
